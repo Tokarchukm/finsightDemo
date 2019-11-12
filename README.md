@@ -12,7 +12,7 @@ TC_CLIENT_USERNAME=tokarchukm@gmail.com
 TC_CLIENT_PASSWORD=Qatestpassword1
 ```
 
-To run tests use command from root directory:
+To run login tests use command from root directory:
 ```
 testcafe chrome e2eTests/login/login.spec.js 
 ```
