@@ -16,3 +16,5 @@ To run tests use command from root directory:
 ```
 testcafe chrome e2eTests/login/login.spec.js 
 ```
+
+update: added test to get ssid value
